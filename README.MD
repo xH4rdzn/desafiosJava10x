@@ -12,14 +12,20 @@ ___
 ## Imagens
 - Inicio do Programa:
 ![Menu](assets/menu.png)
+---
 - Ao Escolher a opção de cadastrar um novo ninja:
 ![Menu Cadastro Ninja](assets/MenuCadastro.png)
+---
 - Ao Escolher o tipo *Uchiha*:
 ![Cadastro Uchiha](assets/CadastroUchiha.png)
+---
 - Ao Escolher o tipo *Ninja*:
 ![Cadastro Ninja](assets/CadastroNinja.png)
+---
 - Cadastrar ninjas além do número escolhido no inicio do programa:
 ![Erro de Cadastro](assets/ErroDeCadastro.png)
+---
 - Listar ninjas cadastrados
 ![Listagem de Ninjas](assets/ListagemDeNinjas.png)
+---
 - Entre outras verificações...
